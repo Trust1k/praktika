@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Страница — 1" id="McdAynpEgjcvdDp99zLO">
+    <mxGraphModel dx="1438" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="udLn1Xj2cPtJZBOqXY7z-3" target="udLn1Xj2cPtJZBOqXY7z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-3" value="Старт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="udLn1Xj2cPtJZBOqXY7z-5" target="udLn1Xj2cPtJZBOqXY7z-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-10" value="Успешно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="udLn1Xj2cPtJZBOqXY7z-9">
+          <mxGeometry x="-0.0769" y="-4" relative="1" as="geometry">
+            <mxPoint x="-10" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="udLn1Xj2cPtJZBOqXY7z-5" target="udLn1Xj2cPtJZBOqXY7z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-5" value="Инцилизация" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="udLn1Xj2cPtJZBOqXY7z-8" target="udLn1Xj2cPtJZBOqXY7z-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-8" value="Загрузка ПО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="udLn1Xj2cPtJZBOqXY7z-11" target="udLn1Xj2cPtJZBOqXY7z-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-11" value="Отладка" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-13" value="Ошибка" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284" y="406" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="udLn1Xj2cPtJZBOqXY7z-15" target="udLn1Xj2cPtJZBOqXY7z-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-15" value="Настройка ПО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="udLn1Xj2cPtJZBOqXY7z-17" target="udLn1Xj2cPtJZBOqXY7z-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-17" value="Загрузка пользователей" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="udLn1Xj2cPtJZBOqXY7z-20" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="394" y="810" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
