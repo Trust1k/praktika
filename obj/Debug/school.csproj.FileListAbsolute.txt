@@ -1,0 +1,15 @@
+C:\Users\facei\OneDrive\Рабочий стол\school\bin\Debug\school.exe.config
+C:\Users\facei\OneDrive\Рабочий стол\school\bin\Debug\school.exe
+C:\Users\facei\OneDrive\Рабочий стол\school\bin\Debug\school.pdb
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school.csproj.AssemblyReference.cache
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\MainWindow.g.cs
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\App.g.cs
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school_MarkupCompile.cache
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school_MarkupCompile.lref
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\MainWindow.baml
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school.g.resources
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school.Properties.Resources.resources
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school.csproj.GenerateResource.cache
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school.exe
+C:\Users\facei\OneDrive\Рабочий стол\school\obj\Debug\school.pdb
